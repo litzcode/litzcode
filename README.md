@@ -39,7 +39,7 @@
 
 ##
 
-<a href="https://github.com/litzcode/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=litzcode">
-</a>
+![](https://komarev.com/ghpvc/?username=litzcode)
+
+
 
