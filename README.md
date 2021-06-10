@@ -30,7 +30,12 @@
     <a href="https://palletsprojects.com/p/flask/" target="_blank"><img src="https://img.icons8.com/color/32/000000/flask.png"/></a>
 </p>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=litzcode&show_icons=true&theme=vue-dark">
+#
+
+<br/>
+<p align='center'>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=litzcode&show_icons=true&theme=vue-dark">
+</p>
 
 ##
 
