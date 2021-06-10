@@ -1,5 +1,6 @@
-## Hi, this is Litzy 🌱
+<h1>Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Litzy</h1>
 
+### About me
 
 - 🔭 I’m currently working on personal projects
 - 📖 I’m currently learning Jest
@@ -27,7 +28,12 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+<br/>
+##
 
+<a href="https://github.com/litzcode/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=litzcode">
+</a>
 
 </details>
 
@@ -43,4 +49,3 @@
 [sql]: https://www.w3schools.com/sql/
 [mysql]: https://www.mysql.com/
 [github]: https://github.com/litzcode
-
