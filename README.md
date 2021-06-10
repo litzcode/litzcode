@@ -9,14 +9,14 @@
 - ⚡ Fun fact: I love my Loly (that fluffy lovely doggy on my profile pic 💕)
 
 
-### Connect with me:
+### Connect with me
 
 <p align='left'> 
     <a href="https://www.linkedin.com/in/litzy-xu-ye" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/></a>
     <a href="https://twitter.com/litzy_xu" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/twitter.png"/></a>
 </p>
 
-### Languages and Tools:
+### Languages and Tools
 
 <p align='left'> 
     <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.icons8.com/color/32/000000/visual-studio-code-2019.png"/></a>
