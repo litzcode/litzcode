@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🔭 I’m currently working on my personal professional services website 
+- 🔭 I’m currently working on my personal professional services website ⭐️
 - 📖 I’m currently learning SEO
 - 👯 I’m looking to collaborate with Open Source projects
 - 📫 How to reach me: litzcode@gmail.com
