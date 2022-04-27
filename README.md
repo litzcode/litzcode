@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my personal professional services website ⭐️
 - 📖 I’m currently learning SEO
-- 👯 I’m looking to collaborate with Open Source projects
+- 👯 I’m looking to start my journey from chemist/chemical eng to developer
 - 📫 How to reach me: litzcode@gmail.com
 - ⚡ Fun fact: I love my Loly (that fluffy lovely doggy on my profile pic 💕)
 
